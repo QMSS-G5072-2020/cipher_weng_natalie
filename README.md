@@ -24,7 +24,7 @@ $ pip install -i https://test.pypi.org/simple/ cipher_yjw2106
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://cipher_yjw2106.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://cipher-weng-natalie.readthedocs.io/en/latest/
 
 ## Contributors
 
