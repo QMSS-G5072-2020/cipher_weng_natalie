@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_yjw2106"
-version = "0.1.1"
+version = "0.1.2"
 description = "Cipher yjw2106"
 authors = ["yjw224 <yjw224@nyu.edu>"]
 
